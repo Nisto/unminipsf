@@ -5,5 +5,5 @@ Converts miniPSF files to standard PSF
 * Python 3
 
 ### Usage
-* Via drag-and-drop: drop an PSF file onto the program
-* Via commandline: supply the path to an PSF file as the first argument
+* Via drag-and-drop: drop a miniPSF file onto the program
+* Via commandline: supply the path to a miniPSF file as the first argument
