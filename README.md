@@ -1,5 +1,5 @@
 # unminipsf
-Converts miniPSF files to standard PSF
+Converts miniPSF1 files to standard PSF1 format
 
 ### Prerequisites
 * Python 3
